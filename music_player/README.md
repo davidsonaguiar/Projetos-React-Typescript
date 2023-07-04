@@ -1,5 +1,5 @@
 # Music Player
-<img src="./src/assets/Captura%20de%20tela%202023-07-04%20193832.png" alt="Print Calculadora" style="max-width: 500px; margin-bottom: 20px;">
+<img src="./src/assets/Captura%20de%20tela%202023-07-04%20193832.png" alt="Print Calculadora" width="500">
 
 Este é um reprodutor de música desenvolvido utilizando as tecnologias React, TypeScript, Vite e Tailwind CSS. Ele permite reproduzir músicas, pausar, avançar e retroceder alguns segundos, além de exibir uma barra de progresso para verificar o progresso da música e o tempo atual e a duração.
 

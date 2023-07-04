@@ -1,6 +1,6 @@
 # Calculadora
 
-<img src="./src/assets/calculadora.png" alt="Print Calculadora" style="max-width: 500px; margin-bottom: 20px;">
+<img src="./src/assets/calculadora.png" alt="Print Calculadora" width="500">
 
 Esta é uma calculadora simples desenvolvida utilizando as tecnologias React, TypeScript e Tailwind CSS. Ela permite realizar cálculos básicos, como adição, subtração, multiplicação, divisão, cálculo percentual, alteração de sinal do número e limpeza dos dados.
 
