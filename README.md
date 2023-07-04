@@ -6,22 +6,18 @@ Este repositório contém dois projetos desenvolvidos com [React Vite](https://w
 
 Uma simples calculadora que realiza operações básicas de soma, subtração, multiplicação e divisão. O projeto foi desenvolvido com o objetivo de mostrar a integração entre as tecnologias citadas acima.
 
-### Como rodar o projeto
-
-1. Clone o repositório para sua máquina local
-2. Abra o terminal na pasta do projeto `calculadora`
-3. Instale as dependências do projeto através do comando `npm install`
-4. Rode o projeto com o comando `npm run dev`
-5. Acesse o endereço `http://localhost:3000` no seu navegador
-
 ## Lista de Tarefas
 
 Uma aplicação que permite criar e gerenciar uma lista de tarefas. É possível adicionar novas tarefas, marcar como concluída e excluir tarefas da lista. O projeto também foi desenvolvido com o objetivo de mostrar a integração entre as tecnologias citadas acima.
 
+## Player de Musica
+
+Um simples reprodutor de música com as seguintes funções: reproduzir, pausar, avançar e retroceder alguns segundos.
+
 ### Como rodar o projeto
 
 1. Clone o repositório para sua máquina local
-2. Abra o terminal na pasta do projeto `lista-de-tarefas`
+2. Abra o terminal na pasta do projeto `nome_da_pasta`
 3. Instale as dependências do projeto através do comando `npm install`
 4. Rode o projeto com o comando `npm run dev`
 5. Acesse o endereço `http://localhost:3000` no seu navegador
